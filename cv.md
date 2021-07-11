@@ -1,8 +1,8 @@
 # CV Markdown Sergey Goncharuk
 ### Contacts
-    * *VK:*  https://vk.com/serjgoncharuk
-    * *Telegram, WhatsApp, Viber:* +7(977)502-01-24
-    * *Email:* fleshed914@gmail.com
+* *VK:*  https://vk.com/serjgoncharuk
+* *Telegram, WhatsApp, Viber:* +7(977)502-01-24
+* *Email:* fleshed914@gmail.com
 
 ### **About me**
 * 25 years old
