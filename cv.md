@@ -40,7 +40,7 @@ Software | VsCode, Figma, AdobePhotoshop, Avocode, Zeplin
 #### Courses
 **WEB Developer 2021 WEB Developer 2021** - https://www.udemy.com/course/webdeveloper/
 
-### Educational projects
+#### Educational projects
 1. **Playstation Store redesign** - https://github.com/bloodmooner/ps-store
 1. **VPN service landing page** - https://github.com/bloodmooner/laslesVPN
 1. **Restaurant landing page** - https://github.com/bloodmooner/food
@@ -54,6 +54,5 @@ Software | VsCode, Figma, AdobePhotoshop, Avocode, Zeplin
 ### English - A2
 
 
-Thanks for watching!
+Thanks for watching!\
 ![Thanks](https://i.playground.ru/i/pix/1490995/image.jpg)
-Format: ![Alt Text](url)
