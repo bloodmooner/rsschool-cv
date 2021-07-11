@@ -13,9 +13,9 @@
 * **Work experience:**
     1. Technical support of Skyeng introductory lessons - *1 year*
     1. Administrator for accompanying children's group lessons Skyeng - *1 year*
-    1. Skysmart Interactive Notebook Support Manager - *1 year*
-    *Completed 2 freelance orders:* Funeral service website (Frontend + Backend in PHP (Wordpress) and Website for the sale of game currencies (Frontend + Backend in PHP).
-    Also I have experience in communicating with the customer on third-party orders.
+    1. Skysmart Interactive Notebook Support Manager - *1 year*    
+*Completed 2 freelance orders:* Funeral service website (Frontend + Backend in PHP (Wordpress) and Website for the sale of game currencies (Frontend + Backend in PHP).
+Also I have experience in communicating with the customer on third-party orders.
 
 ### Skills (programming languages, frameworks, methodologies, version control systems and development tools that I own)
 Skill-category | Skills
